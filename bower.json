@@ -1,0 +1,26 @@
+{
+  "name": "angular-dlmenu",
+  "main": "menu.js",
+  "version": "0.0.8",
+  "keywords": [
+    "dick",
+    "lemm",
+    "menu"
+  ],
+  "authors": [
+    "dick lemm"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]/*,
+  "dependencies": {
+    "angular": "~1.2.6"
+  }*/
+}
